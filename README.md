@@ -1,1 +1,1 @@
-# Curriculum_Vitae
+This contains one of the papers, which is not online available yet, belonging to the urban sprawl project developed jointly with members of the dept. of Urban Planning at Thecnical University of Valencia.
